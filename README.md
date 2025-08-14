@@ -46,7 +46,7 @@ Whether you're seeking creative writing, casual chats, or idea brainstorming, Mu
 
 ## 🌐 Live Demo
 
-Click here to try MuseMate 👉 [Chat with MuseMate]()
+Click here to try MuseMate 👉 [Chat with MuseMate](https://musemate.streamlit.app/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
