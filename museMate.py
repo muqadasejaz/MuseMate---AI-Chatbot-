@@ -23,7 +23,7 @@ model = init_model()
 
 # Initialize Chat History 
 if "chat_history" not in st.session_state:
-    st.session_state.chat_history = [SystemMessage(content="You are MuseMate 🎨🤖 — a friendly, playful, and creative AI assistant.")]
+    st.session_state.chat_history = [SystemMessage(content="You are MuseMate 🎨🤖 a friendly, playful, and creative AI assistant.")]
 
 #App Title 
 st.title("MuseMate 🎨🤖")
@@ -55,3 +55,4 @@ if prompt := st.chat_input("Type your message... 💬"):
 
     # Add AI message to history
     st.session_state.chat_history.append(AIMessage(content=result.content))
+
